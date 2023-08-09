@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nguyễn Anh Tuấn</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="sign_up">Don\'t have an account ?<b> Sign Up</b></string>
+    <string name="edit"><u>Chỉnh sửa</u></string>
+    <string name="dell"><u>Xóa</u></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
